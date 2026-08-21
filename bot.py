@@ -154,7 +154,7 @@ async def produtos(
 ):
 
     embed = discord.Embed(
-        title="🛒 Loja do JP",
+        title= "🛒 Atack-Titan",
         description="Escolha seu produto abaixo!",
         color=discord.Color.blue()
     )
